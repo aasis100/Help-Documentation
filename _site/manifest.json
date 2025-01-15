@@ -1,0 +1,1177 @@
+{
+  "source_base_path": "C:/Users/tsunami/source/repos/ase-demo-assignment-aasis100/ASE_Assignment_Ashish_Gyawali_77356739",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppArray.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppBoolean.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppBoolean.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppCast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppCast.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppCircle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppConditionalCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppConditionalCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppDrawTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppDrawTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppElse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppElse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppEnd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppEnd.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppFor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppFor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppIf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppIf.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppInt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppMoveTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppPeek.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppPeek.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppPenColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppPenColour.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppPoke.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppPoke.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppPraser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppPraser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppReal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppReal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppRectangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppRectangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppWhile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.AppWhile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.ApplicationCompoundCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.ApplicationCompoundCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.ApplicationMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.ApplicationMethod.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Clear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Clear.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Fill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Fill.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.GlobalConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.GlobalConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.MyStoredProgram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.MyStoredProgram.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.PenSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.PenSize.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Reset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Reset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Triangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.Triangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.WriteTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.WriteTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Assignment_Ashish_Gyawali_77356739.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.CommandFactoryTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.CommandFactoryTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.CommandUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.CommandUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.GloabalCofigTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.GloabalCofigTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyAppCanvasTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyAppCanvasTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyCircleUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyCircleUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyClearUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyClearUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyDrawToUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyDrawToUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyFillUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyFillUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyMoveToUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyMoveToUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyPenColourUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyPenColourUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyRectangleUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyRectangleUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyResetsUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyResetsUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyStoredProgramUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyStoredProgramUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyTriangleTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyTriangleTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyWriteToUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.MyWriteToUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.ParserTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.ParserTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.PenSizeUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.PenSizeUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/ASE_Test_Project.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/toc.html"
+        },
+        ".json": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/toc.html"
+        },
+        ".json": {
+          "relative_path": "ASE_Assignment_Ashish_Gyawali_77356739/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppArray.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppBoolean.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppBoolean.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppCast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppCast.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppCircle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppConditionalCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppConditionalCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppDrawTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppDrawTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppElse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppElse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppEnd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppEnd.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppFor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppFor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppIf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppIf.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppInt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppMoveTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppPeek.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppPeek.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppPenColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppPenColour.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppPoke.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppPoke.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppPraser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppPraser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppReal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppReal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppRectangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppRectangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppWhile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.AppWhile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.ApplicationCompoundCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.ApplicationCompoundCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.ApplicationMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.ApplicationMethod.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Clear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Clear.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Fill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Fill.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.GlobalConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.GlobalConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.MyStoredProgram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.MyStoredProgram.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.PenSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.PenSize.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Reset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Reset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Triangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.Triangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.WriteTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.WriteTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Ashish_Gyawali_77356739.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.CommandFactoryTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.CommandFactoryTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.CommandUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.CommandUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.GloabalCofigTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.GloabalCofigTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyAppCanvasTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyAppCanvasTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyCircleUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyCircleUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyClearUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyClearUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyDrawToUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyDrawToUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyFillUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyFillUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyMoveToUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyMoveToUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyPenColourUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyPenColourUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyRectangleUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyRectangleUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyResetsUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyResetsUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyStoredProgramUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyStoredProgramUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyTriangleTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyTriangleTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.MyWriteToUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.MyWriteToUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.ParserTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.ParserTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.PenSizeUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.PenSizeUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Test_Project.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Test_Project.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
